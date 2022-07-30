@@ -1,7 +1,9 @@
 # T-Rex-Runner
 
-By Comp Labs `https://www.complabs.in`
+Online T-Rex Runner Game made using HTML. Play it online at `https://comp-labs.github.io/t-rex-runner` or clone this repository and run `index.html` to play.
 
-## Instructions:
-
-You just have to Go to Code > Download as ZIP. Then Go to the downloaded ZIP File and Unzip and open `index.html` to play the game offline. You can Access it online at: `https://comp-labs.github.io/T-Rex-Runner`
+<footer>
+<p align="center" style="font-size: smaller;">
+Copyright © 2022 Comp Labs. Built with ❤️ by the Comp Labs Team.
+</p>
+</footer>
