@@ -4,6 +4,6 @@ Online T-Rex Runner Game made using HTML. Play it online at `https://comp-labs.g
 
 <footer>
 <p align="center" style="font-size: smaller;">
-Copyright © 2022 Comp Labs. Built with ❤️ by the Comp Labs Team.
+Copyright © 2023 Comp Labs. Built with ❤️ by the Comp Labs Team.
 </p>
 </footer>
